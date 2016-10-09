@@ -19,4 +19,4 @@ php -r "unlink('composer-setup.php');"
 ```
 
 #installer/oppdater dependencies
-`./oppdater-dependencies.sh`
+`./update-dependencies.sh`
