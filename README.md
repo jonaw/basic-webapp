@@ -18,5 +18,11 @@ php composer-setup.php
 php -r "unlink('composer-setup.php');"
 ```
 
+#installer ruby (nødvendig for sass)
+`sudo apt-get install ruby`
+
+#install sass
+`sudo su -c "gem install sass"`
+
 #installer/oppdater dependencies
 `./update-dependencies.sh`
