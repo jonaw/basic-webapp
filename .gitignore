@@ -1,8 +1,8 @@
 composer-setup.php
 composer.phar
-vendor/*
-bower_components/*
-node_modules/*
-build/*
-temp/*
-.sass-cahce/*
+vendor/
+bower_components/
+node_modules/
+build/
+temp/
+.sass-cahce/
