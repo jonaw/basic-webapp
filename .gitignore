@@ -1,6 +1,5 @@
 composer-setup.php
 composer.phar
-composer.lock
 vendor/*
 bower_components/*
 node_modules/*
