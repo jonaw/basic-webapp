@@ -7,8 +7,8 @@
 #installer bower globalt
 `sudo npm install -g bower`
 
-#installer grunt globalt
-`sudo npm install -g grunt`
+#installer grunt-cli globalt
+`sudo npm install -g grunt-cli`
 
 #installer composer lokalt
 ```
