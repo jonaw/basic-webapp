@@ -5,4 +5,4 @@ bower_components/
 node_modules/
 build/
 temp/
-.sass-cahce/
+.sass-cache/
